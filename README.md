@@ -1,5 +1,5 @@
 <h1>Datos Personales</h1>
-<p><img src="https://www.instagram.com/p/BrCDHU3Fznjb9rG27KJlyJsn0IZ2emuqDDF7lE0/">
+<p><img src="file:///C:/Users/PC/Downloads/Estephanie%20Quiros%20(@estephanie.1707)%20%E2%80%A2%20Fotos%20y%20videos%20de%20Instagram_files/73393234_2167597736867452_3213497434265092096_n.jpg">
 <h2><p><strong><a href="https://estephanie-quiros.github.io/Formulario-de-datos/">Formulario de datos</a></strong>
 <p><strong>Nombre Completo:</strong> Estephanie Quiros  
 <p><strong>Fecha Nacimiento:</strong> 17 de febrero de 2001
