@@ -1,5 +1,5 @@
 <h1>Datos Personales</h1> 
-<p><img src="https://www.okchicas.com/wp-content/uploads/2017/10/17127332_839878032816828_2994946417090363392_n.jpg">
+<p><img src="https://www.instagram.com/p/BrCDHU3Fznjb9rG27KJlyJsn0IZ2emuqDDF7lE0/">
 <h2><p><strong><a href="https://estephanie-quiros.github.io/Formulario-de-datos/">Formulario de datos</a></strong>
 <p><strong>Nombre Completo:</strong> Estephanie Quiros  
 <p><strong>Fecha Nacimiento:</strong> 17 de febrero de 2001
