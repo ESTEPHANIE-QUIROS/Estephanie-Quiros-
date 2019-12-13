@@ -4,7 +4,7 @@
 <p><strong><em>- Nombre Completo:</em> Estephanie Quiros  
 <p><strong><em>- Fecha Nacimiento:</em> 17 de febrero de 2001
 <p><strong><em>- Edad: 18 años
-<p><strong><em>- Nacionalidad:</em> Panameña
+  <p><strong><em>- Nacionalidad:</strong></em> Panameña
   
 <h1>Datos Educativos</h1>
 <p><strong>Escuelas:</strong><p>
