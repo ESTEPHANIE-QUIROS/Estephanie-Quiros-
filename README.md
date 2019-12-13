@@ -3,7 +3,7 @@
 <h1><p><strong><a href="https://estephanie-quiros.github.io/Formulario-de-datos/">Formulario de datos</a></strong></h1>
 <p><em> Nombre Completo:</em>   Estephanie Quiros  
 <p><em>Fecha Nacimiento:</em>    17 de febrero de 2001
-<p><strong><em>Edad:</strong></em>   18 años
+<p><em>Edad:</em>   18 años
 <p><em>Nacionalidad:</em>  Panameña
   
 <h1>Datos Educativos</h1>
