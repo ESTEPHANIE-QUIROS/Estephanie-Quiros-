@@ -14,4 +14,4 @@
 <P><em>- Universidad Nacional de Panamá</em>
 <h1>Redes Sociales</h1>
 <p><strong>Instagram:</strong> <a href="https://www.instagram.com/estephanie.1707/">estephanie.1707</a>
-<p><strong>Instagram:</strong> <a href="https://www.facebook.com/fefyquiros/
+  <p><strong>facebook:</strong> <a href="https://www.facebook.com/fefyquiros/">fefyquiros</a>                  
