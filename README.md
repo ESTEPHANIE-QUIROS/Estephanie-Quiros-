@@ -1,4 +1,4 @@
-<h1>Esrephanie Quiros<\h1>
+<h1>Esrephanie Quiros</h1>
 <p><img src="https://scontent.fpac1-1.fna.fbcdn.net/v/t1.0-9/80087353_511817432765879_7017483808656064512_n.jpg?_nc_cat=111&_nc_ohc=V04QUe0xRRAAQmRMXHyHUkOecwf5LwOebmEWQXgCqJNzWLgVgFxqx74Jw&_nc_ht=scontent.fpac1-1.fna&oh=cd95b501a87b2ee5c34b96ec616df49c&oe=5E6CD7AF">    
 <h1><p><strong><a href="https://estephanie-quiros.github.io/Formulario-de-datos/">Formulario de datos</a></strong></h1>
 <p><strong><em>- Nombre Completo:</strong></em> Estephanie Quiros  
