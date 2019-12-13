@@ -15,3 +15,29 @@
 <h1>Redes Sociales</h1>
 <p><strong>Instagram:</strong> <a href="https://www.instagram.com/estephanie.1707/">estephanie.1707</a>
 <p><strong>facebook:</strong> <a href="https://www.facebook.com/fefyquiros/">fefyquiros</a>                  
+
+>
+<p>Geolocalización</p>
+<button onclick="getLocation()">Try It</button>
+
+<p id="demo"></p>
+
+<script>
+var x = document.getElementById("demo");
+
+function getLocation() {
+  if (navigator.geolocation) {
+    navigator.geolocation.watchPosition(showPosition);
+  } else { 
+    x.innerHTML = "Geolocation is not supported by this browser.";
+  }
+}
+    
+function showPosition(position) {
+    x.innerHTML="Latitude: " + position.coords.latitude + 
+    "<br>Longitude: " + position.coords.longitude;
+}
+</script>
+
+</body>
+</html>
